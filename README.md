@@ -45,3 +45,4 @@ I plan to continue building more projects as I learn additional JavaScript conce
 
 
 ## Live Demo
+[Try Out The Guessing Game](https://eliotcs.github.io/guessing-game/)
