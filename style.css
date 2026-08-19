@@ -1,0 +1,71 @@
+body{
+    background-color: black;
+    color: white;
+}
+.intro {
+    text-align: center;
+    padding-top: 345px;
+    font-size: 2EM;
+    text-shadow: 2px 3px 4px rgb(35, 193, 221);
+}
+
+#startbut{
+     font-size: 24px;      
+    padding: 15px;           
+    width: 250px;           
+    text-align: center;      
+    border: 3px solid rgb(35, 193, 221);
+    border-radius: 10px;     
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif; 
+    background-color: rgb(214, 242, 247);
+}
+
+.game {
+    display: none;
+    text-align: center;
+    padding-top: 150px;
+    text-shadow: 2px 3px 4px rgb(35, 193, 221);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+
+#pop {
+    text-align: center;
+    display: block;
+    opacity: 0; 
+    transition: opacity 0.5s;
+}
+
+#submit {
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(91, 86, 97);
+    border: none;  
+    outline: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    margin-left: 10px;    
+    font-size: 30px;
+    height: 60px;
+    width: 120px;
+
+}
+#submit:hover {
+    color: white;
+    background-color: rgb(208, 198, 219);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    
+
+}
+
+#number {
+    font-size: 24px;      
+    padding: 15px;           
+    width: 150px;           
+    text-align: center;      
+    border: 3px solid rgb(35, 193, 221);
+    border-radius: 10px;     
+    font-family: 'Franklin Gothic Medium', Arial, sans-serif; 
+    background-color: rgb(214, 242, 247);
+}
