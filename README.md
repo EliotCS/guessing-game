@@ -38,7 +38,7 @@ While building this project, I practiced:
 ## Purpose
 Coming from a Java background, this project was my way of bridging the gap into JavaScript and web development. While I used tutorials and modern developer tools to help me navigate JavaScript's event-driven syntax and DOM manipulation, I wrote and debugged the core game logic myself to build genuine, hands-on experience.
 
-I plan to continue building more projects as I learn additional JavaScript concepts and web development skills.
+I plan to continue building more projects as I learn additional JavaScript concepts and web development skills. Also I'm planning to advance my skills in all aspects of web development.
 
 ## Preview
 <img width="1908" height="899" alt="Screenshot 2026-08-19 002257" src="https://github.com/user-attachments/assets/9aee3239-6e87-47d0-96d9-2d188b74ee27" />
